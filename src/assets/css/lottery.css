@@ -1,0 +1,20 @@
+.lottery-content{
+    /* background-image: url("../img/lotterybg.png"); */
+    width: 840px !important;
+    height: 429px !important;
+
+    background: #2C3659;
+    box-shadow: 0px 5.03704px 5.03704px rgba(0, 0, 0, 0.25);
+    border-radius: 91.9259px;
+}
+
+.lottery-left-pannel{
+    width: 535.19px;
+    height: 346.3px;
+    margin-left: 44px;
+    /* padding-top: 47px; */
+    /* FaderGrey */
+
+    background: linear-gradient(180deg, #1B2D4B 0%, #405985 100%);
+    border-radius: 40.2963px;
+}
